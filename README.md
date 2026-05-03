@@ -1,6 +1,6 @@
 # OOPS
 
-This repository contains C++ programs for Object Oriented Programming lab assignments. The programs are organized assignment-wise in folders named `A1`, `A2`, `A3`, and so on.
+This repository contains C++ practice questions and Object Oriented Programming lab assignments. The programs are organized assignment-wise in folders named `A1`, `A2`, `A3`, and so on.
 
 ## Repository Structure
 
